@@ -1,6 +1,6 @@
-# school_district_analysis
+# School District Analysis
 
-## Overview of the school district analysis: Explain the purpose of this analysis.
+## Overview: Explain the purpose of this analysis.
 
 The purpose of this analysis was to provide Maria with high-level school/student performance metrics, district-wide and by school, presented in an easy to read table. This required data cleaning and data/table reforatting because it was discovered that the test scores for ninth grade students at Thomas High School were flawed, and it was decided that they be removed from the dataset. 
 
@@ -8,10 +8,10 @@ The purpose of this analysis was to provide Maria with high-level school/student
 
 ### How is the district summary affected?
 District Summary before removing ninth graders scores:
-<imgsrc="">
+<imgsrc="Resources/District_Summary_Before.png">
 
 District Summary after removing ninth graders scores:
-<imgsrc="">
+<imgsrc="Resources/District_Summary_After.png">
 
 Changes were seen to the following data categories:
 Average math score went down from 79 to 78.9
@@ -21,6 +21,8 @@ Average reading score stayed the same
 Overall passing went down from 65% to 64.9%
 
 ### How is the school summary affected?
+
+
 Before removing ninth graders: 90.1% overall passing rate
 
 After removing ninth graders: 65.1% overall passing rate 
