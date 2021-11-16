@@ -8,10 +8,10 @@ The purpose of this analysis was to provide Maria with high-level school/student
 
 ### How is the district summary affected?
 District Summary before removing ninth graders scores:
-<imgsrc="Resources/District_Summary_Before.png">
+<img src="Resources/District_Summary_Before.png">
 
 District Summary after removing ninth graders scores:
-<imgsrc="Resources/District_Summary_After.png">
+<img src="Resources/District_Summary_After.png">
 
 Changes were seen to the following data categories:
 Average math score went down from 79 to 78.9
