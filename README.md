@@ -22,7 +22,6 @@ Overall passing went down from 65% to 64.9%
 
 ### How is the school summary affected?
 
-
 Before removing ninth graders: 90.1% overall passing rate
 
 After removing ninth graders: 65.1% overall passing rate 
@@ -46,6 +45,7 @@ The overall passing % for Medium Sized Schools fell by .13% after ninth-graders 
 The overall passing % for Charter Schools fell 0.04% after ninth-graders scores were removed from the anaylsis. 
 Passing reading fell by 0.03% and passing math fell by 0.01%. 
 
-##  Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+##  Summary: 
+### Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 - The greatest change to the analysis after replacing math and reading scores for THS ninth grade was the overall school summary passing rate. which fell from 90.1% passing rate to a 65.1% passing rate 
 - The other analyses calculating the change by grade, school spending, size, and school type, were not significantly altered by the removal of the ninth-graders scores. 
